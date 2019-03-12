@@ -1,2 +1,0 @@
-# schd
-Created with CodeSandbox
